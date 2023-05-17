@@ -1,0 +1,6 @@
+2023-05-16 23:52:37.081  INFO 7892 --- [main] com.example.Module3LogApplicationTests   : Starting Module3LogApplicationTests using Java 1.8.0_361 on RedmiBook14 with PID 7892 (started by 21953 in D:\WorkSpace\IDEA\springboot01\module3-log)
+2023-05-16 23:52:37.085  INFO 7892 --- [main] com.example.Module3LogApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-05-16 23:52:38.799  INFO 7892 --- [main] com.example.Module3LogApplicationTests   : Started Module3LogApplicationTests in 2.257 seconds (JVM running for 3.508)
+2023-05-16 23:52:38.801  INFO 7892 --- [main] com.example.Module3LogApplication        : what happened
+2023-05-16 23:52:38.801  WARN 7892 --- [main] com.example.Module3LogApplication        : what happened
+2023-05-16 23:52:38.802 ERROR 7892 --- [main] com.example.Module3LogApplication        : what happened
